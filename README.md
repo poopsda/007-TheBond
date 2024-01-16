@@ -5,7 +5,7 @@
 007-TheBond is a Python OSINT (Open Source Intelligence) script that lets you find the information of your friends, family, crushes that don't talk to you, and your enemies.😎
 
 # Screenshot of the Script
-![Screenshot](./assets/Interface.png)
+![Screenshot](./assets/Interface%202.png)
 
 
 ## Features
@@ -26,6 +26,10 @@
 
 5. **IP Lookup**
    - Retrieve details about an IP address.
+
+6. **Email Lookup**
+   - Check if an email address has been involved in any data breaches using the Have I Been Pwned API.
+
 
 ## Disclaimer
 
@@ -69,7 +73,7 @@ Alternatively, manually execute the script by following the steps below:
 5. Run the script:
    ```bash
    cd scripts
-   python3 007-TheBond.py
+   python 007-TheBond.py
    ```
 6. Enter the username/phone number/IP address/keyword you want to search for.
 
@@ -130,9 +134,8 @@ https://www.buymeacoffee.com/Deadshot0x7
 http://www.ko-fi.com/deadshot0x7
 https://paypal.me/Deadshot0x7?locale.x=en_GB
 
-google Upi : -  
+google Upi : -  sviquarahmed@okaxis
 
-sviquarahmed@okaxis
 # Website 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e6bac2cc-8b3e-46c6-9c48-4c256548889e/deploy-status)](https://app.netlify.com/sites/007-thebond/deploys)
 # Producthunt
