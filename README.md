@@ -122,7 +122,7 @@ We welcome your pull requests! Follow these steps to contribute:
 
 # Discord Server 
 Join the The Discord Community  to know the Updation and Accounment of the tools 😊
-(https://discord.gg/WAhQ8EcV4C) 
+[Discord Community](https://discord.gg/WAhQ8EcV4C) 
 
 # Disscussion 
 if you have any idea or Sugesstion for the tool do let's us know in the Discussion and your view will be Appreciated 🙌 ,  Want to discuss,  message me in the  Dicussion section 🧐
