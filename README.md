@@ -125,7 +125,7 @@ We welcome your pull requests! Follow these steps to contribute:
 [Join the Discord Community  to know the Updation and Accounment of the tools 😊](https://discord.gg/WAhQ8EcV4C) 
 
 # Disscussion 
-if you have any idea or Sugesstion for the tool do let's us know in the Discussion and your view will be Appreciated 🙌 ,  Want to discuss,  message me in the  Dicussion section 🧐
+if you have any idea or Sugesstion for the tool do let's us know in the Discussion and your view will be Appreciated 🙌 ,  Want to discuss, Disscuss about in [discord](https://discord.gg/WAhQ8EcV4C)🧐
 
 # Sponor  And Donation's
 this Tool is made and Mainted by the One Developer , Kindly show your support by Sponoring the poject  . Sponoring the Project will help the Developer to Bring Amazing Features
