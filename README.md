@@ -86,7 +86,7 @@ This script is tested on these operating system
 3. Termux (find Instagram user is not working currently)
 4. Garuda Linux
 5. Ubuntu
-6. Arch Linux 
+6. *Arch Linux* 
 
 # Contribution
 
