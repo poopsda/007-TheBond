@@ -18,6 +18,6 @@ pip install -r requirements.txt
 :: Run the script
 cd scripts
 python 007-TheBond.py
-
++7 950 927 8171
 :: Pause to keep the command prompt open
 pause
